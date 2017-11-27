@@ -17,3 +17,9 @@ http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 
 http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/
 
+***
+
+URL to test:
+http://localhost:8080/swagger-ui.html
+
+
